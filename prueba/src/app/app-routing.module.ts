@@ -18,6 +18,10 @@ const routes: Routes = [
     path: 'login',
     loadChildren: () => import('./componentes/login/login.module').then( m => m.LoginPageModule),canActivate : [NoinicioGuard]
   },
+  {
+    path: 'usuarios',
+    loadChildren: () => import('./componentes/usuarios/usuarios.module').then( m => m.UsuariosPageModule),canActivate : [NoinicioGuard]
+  },
 ];
 
 @NgModule({
