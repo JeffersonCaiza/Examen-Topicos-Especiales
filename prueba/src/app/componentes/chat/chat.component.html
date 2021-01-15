@@ -9,8 +9,8 @@
 
 <ion-content padding>
 
-<ul>
-  <li *ngFor="let mensaje of mensajes">{{mensaje}}</li>
+<ul *ngIf="room">
+  <li *ngFor="let mensaje of room.messages">{{mensaje.content}}</li>
 </ul>
 
 
