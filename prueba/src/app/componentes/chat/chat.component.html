@@ -3,17 +3,23 @@
     <ion-button slot="start" fill="clear" (click)="closeChat()">
       <ion-icon style="color:white; font-size: 25px" name="arrow-back-circle-outline"></ion-icon>
     </ion-button>
-    <ion-title>{{name}}</ion-title>
+    <ion-title>{{chat.name}}</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
+
+<ul>
+  <li *ngFor="let mensaje of mensajes">{{mensaje}}</li>
+</ul>
+
+
 </ion-content>
 
 <ion-footer padding>
   <ion-item>
-    <ion-textarea></ion-textarea>
-  <ion-button color="danger">
+    <ion-textarea [(ngModel)]="msg"></ion-textarea>
+  <ion-button color="danger" (click)="sendMessage()">
     <ion-icon name="send"></ion-icon>
   </ion-button>
   </ion-item>

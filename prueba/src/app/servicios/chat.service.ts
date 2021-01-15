@@ -26,4 +26,11 @@ export class ChatService {
       })
     }))
   }
+
+  getChatRoom(chat_id:string){
+    return this.db.collection('chatsRooms').doc(chat_id).valueChanges()
+  }
+
+
+
 }

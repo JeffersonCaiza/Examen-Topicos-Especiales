@@ -32,7 +32,7 @@ openChat(chat){
   this.modal.create({
     component: ChatComponent,
     componentProps : {
-      name:chat.name
+      chat:chat
     }
   }).then( (modal) => modal.present())
 }
