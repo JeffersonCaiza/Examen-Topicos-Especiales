@@ -13,7 +13,7 @@ necesario para que este usuario sea registrado en la base de datos
 Por ultimo tenemos el login que se refiere basicamente al diseño de la pantalla de inicio de secion y del codigo correspondiente para poder iniciar secion en la aplicacion e 
 ingresar al chat
 
-![master](/relative/path/to/image.png?raw=true "1")
+/relative/path/to/image.png?raw=true "1"
 
 Link Funcionamiento YOUTUBE:
 https://youtu.be/VRk_oJynvXk
