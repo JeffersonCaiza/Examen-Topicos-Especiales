@@ -40,6 +40,11 @@ CHAT
 REGISTRO USUARIOS
 ![ScreenShot](https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image8.PNG?raw=true)
 
+BASE DE DATOS USUARIOS
+![ScreenShot](https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image9.PNG?raw=true)
+
+BASE DE DATOS MENSAJES
+![ScreenShot](https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image10.PNG?raw=true)
 
 Link Funcionamiento YOUTUBE:
 https://youtu.be/VRk_oJynvXk
