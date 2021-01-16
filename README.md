@@ -14,7 +14,7 @@ Por ultimo tenemos el login que se refiere basicamente al diseño de la pantalla
 ingresar al chat
 
 
-https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image.png?raw=true
+https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/imagen.png
 
 Link Funcionamiento YOUTUBE:
 https://youtu.be/VRk_oJynvXk
