@@ -1,5 +1,5 @@
 # Examen-Topicos-Especiales
-Basicamente lo que se realzaio es lacreacion de una pliacion android la cual va a tener
+Basicamente lo que se realizo es la creacion de una apliacion android la cual va a tener
 un inicio de secion y un chat para esto se crea una base de datos creada en firebase la 
 cual en este caso se llamo prueba una vez aqui se selciona el metodo de autenticacion el cual es usuario y 
 contraseña una vez hecho esto codificaremos nuestro codigo el cual va a tener tres componentes que son 
