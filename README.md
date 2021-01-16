@@ -26,6 +26,20 @@ UAURIOS
 ![ScreenShot](https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image4.PNG?raw=true)
 
 
+INICIO DE SECION
+![ScreenShot](https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image5.PNG?raw=true)
+
+
+INCICIO CHAT
+![ScreenShot](https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image6.PNG?raw=true)
+
+CHAT
+![ScreenShot](https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image7.PNG?raw=true)
+
+
+REGISTRO USUARIOS
+![ScreenShot](https://github.com/JeffersonCaiza/Examen-Topicos-Especiales/blob/master/image8.PNG?raw=true)
+
 
 Link Funcionamiento YOUTUBE:
 https://youtu.be/VRk_oJynvXk
